@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Guido A. Herrera-R, M.Sc.
 
 You can use the [editor on GitHub](https://github.com/GuidoHero/WebSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -2,8 +2,8 @@
 
 Conservation and freshwater ecologist working on understanding I use GIS and statistical modelling to inform conservation actions on freshwater.
 
-
-## Ph.D. Ecology & Evolutionary Biology 2020 -
+### Education
+# Ph.D. Ecology & Evolutionary Biology 2020 -
 The University of Tennessee,
 
 
@@ -15,14 +15,14 @@ Toulouse, France
 Pontifical Javeriana University
 Bogotá, Colombia
 
+### Research
+## Macroecological Patterns
 
-### Macroecological Patterns
+## Improving Mapping Freshwater Biodiversity
 
-### Improving Mapping Freshwater Biodiversity
+## Enhancing Conservation Actions for Freshwater 
 
-### Enhancing Conservation Actions for Freshwater 
-
-### Discovery and Natural History of Tropical Freshwater Biodiversity
+## Discovery and Natural History of Tropical Freshwater Biodiversity
 
 ### Publications 
 

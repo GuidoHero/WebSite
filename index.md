@@ -1,10 +1,30 @@
 ## Guido A. Herrera-R, M.Sc.
 
-Ph.D. Ecology & Evolutionary Biology 2020 -
-The University of TennesseeKnoxville, TNAdvisor: Dr. Xingli Giam+M.Sc. Modeling of Ecological Systems2016 - 2018University of Toulouse III Paul SabatierToulouse, FranceHonors (1st year) & Highest Honors (2nd year)Thesis:Combined effects of climate change and fragmentation by dams in Andean Amazon fishes.Advisor: Dr. Pablo A. Tedesco+B.Sc. Biology2011 - 2015Pontifical Javeriana UniversityBogotá, ColombiaThesis:High endemism areas of fishes in the Colombian Andean Orinoco region inferred fromspecies distribution models Advisor: Dr. Javier A. Maldonado-Ocampo†
+Conservation and freshwater ecologist working on understanding I use GIS and statistical modelling to inform conservation actions on freshwater.
 
 
-### Markdown
+## Ph.D. Ecology & Evolutionary Biology 2020 -
+The University of Tennessee,
+
+
+Knoxville, TN
+## M.Sc. Modeling of Ecological Systems 2016 - 2018
+University of Toulouse III Paul Sabatier 
+Toulouse, France
+## B.Sc. Biology 2011-2015 
+Pontifical Javeriana University
+Bogotá, Colombia
+
+
+### Freshwater Macroecological Patterns
+
+### Mapping Freshwater Biodiversity
+
+### Enhancing Conservation Actions for Freshwaters
+
+### Discovery and Natural History of Tropical Freshwater Biodiversity
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

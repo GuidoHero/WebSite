@@ -1,8 +1,8 @@
 ## Guido A. Herrera-R, M.Sc.
 
-You can use the [editor on GitHub](https://github.com/GuidoHero/WebSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ph.D. Ecology & Evolutionary Biology 2020 -
+The University of TennesseeKnoxville, TNAdvisor: Dr. Xingli Giam+M.Sc. Modeling of Ecological Systems2016 - 2018University of Toulouse III Paul SabatierToulouse, FranceHonors (1st year) & Highest Honors (2nd year)Thesis:Combined effects of climate change and fragmentation by dams in Andean Amazon fishes.Advisor: Dr. Pablo A. Tedesco+B.Sc. Biology2011 - 2015Pontifical Javeriana UniversityBogotá, ColombiaThesis:High endemism areas of fishes in the Colombian Andean Orinoco region inferred fromspecies distribution models Advisor: Dr. Javier A. Maldonado-Ocampo†
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 

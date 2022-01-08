@@ -1,6 +1,6 @@
 # Guido A. Herrera-R, M.Sc.
 
-# Education
+## Education
 **Ph.D. Ecology & Evolutionary Biology 2020 -** 
 
   The University of Tennessee - Knoxville, TN
@@ -13,17 +13,15 @@
 
   Pontifical Javeriana University - Bogotá, Colombia
 
-# Research
+## Research
 
-## Macroecological Patterns
+### Community Ecology and Macroecology of Freshwaters
 
-## Improving Mapping Freshwater Biodiversity
+### Enhancing Conservation Actions for Freshwaters
 
-## Enhancing Conservation Actions for Freshwater 
+### Discovery and Natural History of Tropical Freshwater Biodiversity
 
-## Discovery and Natural History of Tropical Freshwater Biodiversity
-
-# Publications 
+## Publications 
 
 **Herrera-R, G. A.**, Murcia-Castillo, M. A., & Prada-Pedreros, S. (2016). First record of Amatitlania nigrofasciata (Günther, 1867)(Cichliformes: Cichlidae) as introduced species in natural freshwaters of Colombia. Check List, 12(4), 1932.
 

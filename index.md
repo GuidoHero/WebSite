@@ -5,7 +5,7 @@
 The University of Tennessee - Knoxville, TN
 **M.Sc. Modeling of Ecological Systems 2016 - 2018**
 University of Toulouse III Paul Sabatier - Toulouse, France
-**B.Sc. Biology 2011-2015 **
+**B.Sc. Biology 2011-2015**
 Pontifical Javeriana University - Bogotá, Colombia
 
 # Research

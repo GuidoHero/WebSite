@@ -16,14 +16,17 @@ Pontifical Javeriana University
 Bogotá, Colombia
 
 
-### Freshwater Macroecological Patterns
+### Macroecological Patterns
 
-### Mapping Freshwater Biodiversity
+### Improving Mapping Freshwater Biodiversity
 
-### Enhancing Conservation Actions for Freshwaters
+### Enhancing Conservation Actions for Freshwater 
 
 ### Discovery and Natural History of Tropical Freshwater Biodiversity
 
+### Publications 
+
+**Herrera-R, G. A.**, Murcia-Castillo, M. A., & Prada-Pedreros, S. (2016). First record of Amatitlania nigrofasciata (Günther, 1867)(Cichliformes: Cichlidae) as introduced species in natural freshwaters of Colombia. Check List, 12(4), 1932.
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

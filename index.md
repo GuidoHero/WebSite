@@ -1,5 +1,3 @@
-# Guido A. Herrera-R, M.Sc.
-
 ## Education
 **Ph.D. Ecology & Evolutionary Biology 2020 -** 
 
@@ -17,9 +15,9 @@
 
 ### Community Ecology and Macroecology of Freshwaters
 
-### Enhancing Conservation Actions for Freshwaters
-
 ### Discovery and Natural History of Tropical Freshwater Biodiversity
+
+### Enhancing Conservation Actions for Freshwater Ecosystems
 
 ## Publications 
 

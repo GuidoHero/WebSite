@@ -3,7 +3,3 @@ logo: /PhotoWebsite.PNG
 description: Conservation and Freshwater Ecologist
 google_analytics:
 remote_theme:  pages-themes/minimal@v0.2.0
-
-<p class="view"><a href="{{ site.github.owner_url }}">Twitter </a><br><a href="https://twitter.com/GuidoHero">View My Twitter Profile </a></p>
-<p class="view"><a href="{{ site.github.owner_url }}">ResearchGate </a><br><a href="https://www.researchgate.net/profile/Guido-Herrera-R">View My Twitter Profile </a></p>
-<p class="view"><a href="{{ site.github.owner_url }}">Google Scholar </a><br><a href="https://scholar.google.com/citations?user=Jlx12qoAAAAJ&hl=en">View My Twitter Profile </a></p>

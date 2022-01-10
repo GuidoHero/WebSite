@@ -8,15 +8,6 @@
 **B.Sc. Biology 2011-2015**\
   Pontifical Javeriana University - Bogotá, Colombia
 
-## Research
-
-
-### Community Ecology and Macroecology of Freshwaters
-
-### Discovery and Natural History of Tropical Freshwater Biodiversity
-
-### Enhancing Conservation Actions for Freshwater Ecosystems
-
 ## Publications 
 
 Brosse, S., Charpin, N., Su, G., Toussaint, A., **Herrera‐R, G. A.**, Tedesco, P. A., & Villéger, S. (2021). FISHMORPH: A global database on morphological traits of freshwater fishes. Global Ecology and Biogeography, 30(12), 2330-2336.

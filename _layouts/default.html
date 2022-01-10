@@ -24,11 +24,12 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_user_page %}
-
-        <p class="view"><a href="{{ https://twitter.com/GuidoHero }}"> </a><br><a href="https://twitter.com/GuidoHero">Twitter </a></p>
-        <p class="view"><a href="{{ https://www.researchgate.net/profile/Guido-Herrera-R }}"> </a><br><a href="https://www.researchgate.net/profile/Guido-Herrera-R">ResearchGate </a></p>
-        <p class="view"><a href="{{ https://scholar.google.com/citations?user=Jlx12qoAAAAJ&hl=en }}"> </a><br><a href="https://scholar.google.com/citations?user=Jlx12qoAAAAJ&hl=en">Google Scholar </a></p>
-           <p class="view"><a href="{{ guidohero@hotmail.com }}"> </a><br><a href="guidohero@hotmail.com"> Email: guidohero[at]hotmail.com </a></p>
+        
+        <p class="view"><a href="{{ site.github.owner_url }}">GitHub
+          </a><br><a href="https://twitter.com/Jonnygfrazer">Twitter</a>
+          </a><br><a href="https://www.researchgate.net/profile/Guido-Herrera-R">ResearchGate </a>
+          </a><br><a href="https://scholar.google.com/citations?user=Jlx12qoAAAAJ&hl=en">Google Scholar </a>
+          </a><br><a href="guidohero@hotmail.com"> guidohero[at]hotmail.com  </a></p>
         {% endif %}
 
         {% if site.show_downloads %}

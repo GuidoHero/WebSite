@@ -1,4 +1,5 @@
- <font size="5"> **Education** </font> 
+ <font size="5"> **Education** </font> \
+ 
 **Ph.D. Ecology & Evolutionary Biology 2020 -**\
   The University of Tennessee - Knoxville, TN
 

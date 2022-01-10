@@ -1,4 +1,4 @@
-## Education
+ <font size="5"> **Education** </font> 
 **Ph.D. Ecology & Evolutionary Biology 2020 -**\
   The University of Tennessee - Knoxville, TN
 
@@ -8,7 +8,7 @@
 **B.Sc. Biology 2011-2015**\
   Pontifical Javeriana University - Bogotá, Colombia
 
-## Publications 
+ <font size="5"> **Publications** </font> 
 
 Brosse, S., Charpin, N., Su, G., Toussaint, A., **Herrera‐R, G. A.**, Tedesco, P. A., & Villéger, S. (2021). FISHMORPH: A global database on morphological traits of freshwater fishes. Global Ecology and Biogeography, 30(12), 2330-2336.
 

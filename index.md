@@ -11,21 +11,21 @@
 
  <font size="5"> Publications </font> 
 
-Brosse, S., Charpin, N., Su, G., Toussaint, A., **Herrera‐R, G. A.**, Tedesco, P. A., & Villéger, S. (2021). FISHMORPH: A global database on morphological traits of freshwater fishes. Global Ecology and Biogeography, 30(12), 2330-2336. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename"> PDF </a>]
+Brosse, S., Charpin, N., Su, G., Toussaint, A., **Herrera‐R, G. A.**, Tedesco, P. A., & Villéger, S. (2021). FISHMORPH: A global database on morphological traits of freshwater fishes. Global Ecology and Biogeography, 30(12), 2330-2336. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">PDF</a>]
 
-Duponchelle, F., Isaac, V. J., Rodrigues Da Costa Doria, C., Van Damme, P. A., **Herrera‐R, G. A.**, Anderson, E. P., ... & Castello, L. (2021). Conservation of migratory fishes in the Amazon basin. Aquatic Conservation: Marine and Freshwater Ecosystems, 31(5), 1087-1105. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename"> PDF </a>]
+Duponchelle, F., Isaac, V. J., Rodrigues Da Costa Doria, C., Van Damme, P. A., **Herrera‐R, G. A.**, Anderson, E. P., ... & Castello, L. (2021). Conservation of migratory fishes in the Amazon basin. Aquatic Conservation: Marine and Freshwater Ecosystems, 31(5), 1087-1105. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">PDF</a>]
 
-**Herrera‐R, G. A.**, Oberdorff, T., Anderson, E. P., Brosse, S., Carvajal‐Vallejos, F. M., Frederico, R. G., ... & Tedesco, P. A. (2020). The combined effects of climate change and river fragmentation on the distribution of Andean Amazon fishes. Global Change Biology, 26(10), 5509-5523. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename"> PDF </a>]
+**Herrera‐R, G. A.**, Oberdorff, T., Anderson, E. P., Brosse, S., Carvajal‐Vallejos, F. M., Frederico, R. G., ... & Tedesco, P. A. (2020). The combined effects of climate change and river fragmentation on the distribution of Andean Amazon fishes. Global Change Biology, 26(10), 5509-5523. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">PDF</a>]
 
-Encalada, A. C., Flecker, A. S., Poff, N. L., Suárez, E.,**Herrera-R, G. A.**, Ríos-Touma, B., ... & Anderson, E. P. (2019). A global perspective on tropical montane rivers. Science, 365(6458), 1124-1129. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename"> PDF </a>]
+Encalada, A. C., Flecker, A. S., Poff, N. L., Suárez, E.,**Herrera-R, G. A.**, Ríos-Touma, B., ... & Anderson, E. P. (2019). A global perspective on tropical montane rivers. Science, 365(6458), 1124-1129. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">PDF</a>]
 
-Urbano-Bonilla, A., Ballen, G. A., **Herrera-R, G. A.**, Zamudio, J., Herrera-Collazos, E. E., DoNascimiento, C., ... & Maldonado-Ocampo, J. A. (2018). Fishes of the Cusiana River (Meta River basin, Colombia), with an identification key to its species. ZooKeys, (733), 65. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename"> PDF </a>]
+Urbano-Bonilla, A., Ballen, G. A., **Herrera-R, G. A.**, Zamudio, J., Herrera-Collazos, E. E., DoNascimiento, C., ... & Maldonado-Ocampo, J. A. (2018). Fishes of the Cusiana River (Meta River basin, Colombia), with an identification key to its species. ZooKeys, (733), 65. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">PDF</a>]
 
-Angarita, H., Wickel, A. J., Sieber, J., Chavarro, J., Maldonado-Ocampo, J. A., **Herrera-R, G. A.**, ... & Purkey, D. (2017). Large-scale impacts of hydropower development on the Mompós Depression wetlands, Colombia. Hydrology and Earth System Sciences, doi, 10. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename"> PDF </a>]
+Angarita, H., Wickel, A. J., Sieber, J., Chavarro, J., Maldonado-Ocampo, J. A., **Herrera-R, G. A.**, ... & Purkey, D. (2017). Large-scale impacts of hydropower development on the Mompós Depression wetlands, Colombia. Hydrology and Earth System Sciences, doi, 10. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">PDF</a>]
 
-DoNascimiento, C., Herrera-Collazos, E. E., **Herrera-R, G. A.**, Ortega-Lara, A., Villa-Navarro, F. A., Oviedo, J. S. U., & Maldonado-Ocampo, J. A. (2017). Checklist of the freshwater fishes of Colombia: a Darwin Core alternative to the updating problem. ZooKeys, (708), 25. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename"> PDF </a>]
+DoNascimiento, C., Herrera-Collazos, E. E., **Herrera-R, G. A.**, Ortega-Lara, A., Villa-Navarro, F. A., Oviedo, J. S. U., & Maldonado-Ocampo, J. A. (2017). Checklist of the freshwater fishes of Colombia: a Darwin Core alternative to the updating problem. ZooKeys, (708), 25. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">PDF</a>]
 
-**Herrera-R, G. A.**, Murcia-Castillo, M. A., & Prada-Pedreros, S. (2016). First record of Amatitlania nigrofasciata (Günther, 1867)(Cichliformes: Cichlidae) as introduced species in natural freshwaters of Colombia. Check List, 12(4), 1932. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename"> PDF </a>]
+**Herrera-R, G. A.**, Murcia-Castillo, M. A., & Prada-Pedreros, S. (2016). First record of Amatitlania nigrofasciata (Günther, 1867)(Cichliformes: Cichlidae) as introduced species in natural freshwaters of Colombia. Check List, 12(4), 1932. [<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">PDF</a>]
 
 
 

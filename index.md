@@ -1,4 +1,6 @@
 <font size="5"> Education </font>
+
+<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a>
  
 **Ph.D. Ecology & Evolutionary Biology 2020 -**\
   The University of Tennessee - Knoxville, TN

@@ -1,8 +1,6 @@
 <font size="5"> Education </font>
 
-
- 
-**Ph.D. Ecology & Evolutionary Biology 2020 -**\
+**Ph.D. Ecology & Evolutionary Biology 2020 - ongoing**\
   The University of Tennessee - Knoxville, TN
 
 **M.Sc. Modeling of Ecological Systems 2016 - 2018**\

@@ -13,7 +13,7 @@
 
 - Echeverri, A., Batista, N., Wolny, S., **Herrera-R, G. A.**, Andrade-Rivas, F., Bailey, A., Cárdenas-Navarrete, A., Dávila Arenas, A., Díaz Salazar, A., Hernández, K., Langhans, K., Mateus Aguilar, B., Levey, D., Neill, A., Nguyen, O., Suarez-Castro, A., Zapata, F., & Ocampo-Peñuela, N. (In press). Toward sustainable biocultural ecotourism: An integrated spatial analysis of cultural and biodiversity richness in Colombia. *People and Nature*.
 
-- Hernandez, K. V., Andrade-Rivas, F., Batista, N., Cárdenas-Navarrete, A., Dávila Arenas, A., **Herrera-R, G. A.**, Langhans, K. E., Levey, D., Neill, A., Nguyen, O., Norzin, T., Ocampo-Peñuela, N., Sánchez Lopez, S., Wolny, S., Zapata, F., & Echeverri, A. (In press). Disparity in publicized national and international vulnerability status for Colombian artisan craft plant species. *Ecosystem and People*.
+- Hernandez, K. V., Andrade-Rivas, F., Batista, N., Cárdenas-Navarrete, A., Dávila Arenas, A., **Herrera-R, G. A.**, Langhans, K. E., Levey, D., Neill, A., Nguyen, O., Norzin, T., Ocampo-Peñuela, N., Sánchez Lopez, S., Wolny, S., Zapata, F., & Echeverri, A. (In press). Disparity in publicized national and international vulnerability status for Colombian artisan craft plant species. *Ecosystems and People*.
 
 - Couto, T. B. A., Jenkins, C. N., Beveridge, C. F., Heilpern, S. A., **Herrera-R, G. A.**, Piland, N. C., Leal, C. G., Zuanon, J., Doria, C. R. C., Montoya, M., Varese, M., Correa, S. B., Goulding, M., & Anderson, E. P. (2024). Translating science into actions to conserve Amazonian freshwaters. *Conservation Science and Practice*, e13241. doi: [https://doi.org/10.1111/csp2.13241](https://doi.org/10.1111/csp2.13241).
 
